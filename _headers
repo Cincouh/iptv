@@ -1,0 +1,16 @@
+/*
+  # 核心：让播放器识别 m3u 文件格式
+  Content-Type: application/x-mpegURL
+  # 跨域允许（GitHub Pages 默认放行）
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: *
+  # 缓存策略：和 GitHub Pages 保持一致，避免旧缓存
+  Cache-Control: no-cache, max-age=0
+  # 强制浏览器按指定 Content-Type 解析，不猜测类型
+  X-Content-Type-Options: nosniff
+  # 兼容 GitHub Pages 的 Referrer 策略
+  Referrer-Policy: strict-origin-when-cross-origin
+  # 保留 Cloudflare 原有头，不冲突
+  Priority: u=0,i
+  Vary: accept-encoding
