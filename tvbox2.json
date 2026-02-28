@@ -1,0 +1,100 @@
+{
+  "urls": [
+    {
+      "name": "潇洒",
+      "url": "https://9877.kstore.space/AnotherD/api.json"
+    },
+    {
+      "name": "饭太硬 1",
+      "url": "http://www.饭太硬.com/tv"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://肥猫.com"
+    },
+    {
+      "name": "饭太硬 2",
+      "url": "http://www.饭太硬.net/tv"
+    },
+    {
+      "name": "OK 外部",
+      "url": "http://ok321.top/ok"
+    },
+    {
+      "name": "OK 内部-弹幕",
+      "url": "http://ok321.top/tv"
+    },
+    {
+      "name": "放牛娃",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+    {
+      "name": "香雅晴",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+    },
+    {
+      "name": "摸鱼",
+      "url": "http://我不是.摸鱼儿.xyz/"
+    },
+    {
+      "name": "网盘线路",
+      "url": "https://bitbucket.org/xduo/cool/raw/main/line.json"
+    },
+    {
+      "name": "道长",
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
+    },
+    {
+      "name": "短剧",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json"
+    },
+    {
+      "name": "One线路",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"
+    },
+    {
+      "name": "老刘备源",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
+    },
+    {
+      "name": "星辰线路",
+      "url": "https://fmbox.cc"
+    },
+    {
+      "name": "拾光线路",
+      "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json"
+    },
+    {
+      "name": "无意云源",
+      "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json"
+    },
+    {
+      "name": "二哈线路",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"
+    },
+    {
+      "name": "巧技线路",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
+    },
+    {
+      "name": "玄珠",
+      "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+    },
+    {
+      "name": "缘聚缘散",
+      "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"
+    },
+    {
+      "name": "南风",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+    },
+    {
+      "name": "胖鸭",
+      "url": "https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"
+    },
+    {
+      "name": "巧技2",
+      "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"
+    }
+  ]
+}
