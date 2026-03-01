@@ -323,18 +323,6 @@
       "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
     },
     {
-      "key": "看球",
-      "name": "⚽手机┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "timeout": 10,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "MTV",
       "name": "🎶明星┃MV",
       "type": 3,
@@ -547,13 +535,17 @@
       "type": 0,
       "url": "https://tv.711933.xyz/qg-iptv.m3u",
       "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "全国电视直播1",
       "type": 0,
       "url": "https://tv.711933.xyz/qg1-iptv.m3u",
+      "playerType": 2
+    },
+        {
+      "name": "全国电视直播2",
+      "type": 0,
+      "url": "https://static.wangjx.eu.org/lives.m3u",
       "playerType": 2
     },
     {
