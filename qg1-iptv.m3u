@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" group-title="央视",CCTV-1综合
-http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" group-title="央视",CCTV-2财经
-http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3" group-title="央视",CCTV-3综艺
-http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4" group-title="央视",CCTV-4中文国际
-http://183.215.134.239:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" group-title="央视",CCTV-5体育
-http://183.215.134.239:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+" group-title="央视",CCTV-5+体育赛事
-http://183.215.134.239:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6" group-title="央视",CCTV-6电影
-http://183.215.134.239:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7" group-title="央视",CCTV-7国防军事
-http://183.215.134.239:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8" group-title="央视",CCTV-8电视剧
-http://183.215.134.239:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9" group-title="央视",CCTV-9纪录
-http://183.215.134.239:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10" group-title="央视",CCTV-10科教
-http://183.215.134.239:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11" group-title="央视",CCTV-11戏曲
-http://183.215.134.239:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12" group-title="央视",CCTV-12社会与法
-http://183.215.134.239:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" group-title="央视",CCTV-13新闻
-http://183.215.134.239:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14" group-title="央视",CCTV-14少儿
-http://183.215.134.239:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15" group-title="央视",CCTV-15音乐
-http://183.215.134.239:19901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16" group-title="央视",CCTV-16奥林匹克
-http://183.215.134.239:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17" group-title="央视",CCTV-17农业农村
-http://183.215.134.239:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="BTV" tvg-name="北京卫视" group-title="全国卫视",北京卫视
 http://183.215.134.239:19901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="DragonTV" tvg-name="东方卫视" group-title="全国卫视",东方卫视
